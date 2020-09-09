@@ -1,4 +1,4 @@
-# Ranorex Webtestit Data-driven testing sample
+# Sencha Webtestit Data-driven testing sample
 
 This is an example of how testing a simple login scenario could be solved with [Ranorex Webtestit](https://www.ranorex.com/webtestit/) and Python, using the library [Parameterized](https://pypi.org/project/parameterized/) for a Data driven testing strategy
 
