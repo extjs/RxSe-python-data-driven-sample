@@ -1,4 +1,4 @@
-# Ranorex Webtestit Page Object File
+# Sencha WebtestIt Page Object File
 
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # Additional data: {"img":"screenshots/9b0a8b43-047d-9fc2-64d1-f3ba0dab2db6.png"}
 class LoginPageObject:
     """
-    NOTE: Use Ranorex Selocity or the Elements Panel to generate element code
+    NOTE: Use Sencha to generate element code
     """
     # Additional data:
     # {"img":"screenshots/b7dd8dbd-94d9-f53e-7794-bc69f5e63951.png"}

@@ -1,4 +1,4 @@
-# Ranorex Webtestit Test File
+# Sencha WebtestIt Test File
 
 import csv
 from parameterized import parameterized
