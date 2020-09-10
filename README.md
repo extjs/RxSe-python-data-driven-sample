@@ -1,14 +1,14 @@
 # Sencha WebTestIt Data-driven testing sample
 
-This is an example of how testing a simple login scenario could be solved with [Sencha WebTestIt](https://docs.sencha.com/webtestit.html) and Python, using the library [Parameterized](https://pypi.org/project/parameterized/) for a Data driven testing strategy
+This is an example of how testing a simple login scenario could be solved with [Sencha WebTestIt](https://www.sencha.com/products/webtestit/) and Python, using the library [Parameterized](https://pypi.org/project/parameterized/) for a Data driven testing strategy
 
 ## Sencha WebTestIt
 
-Sencha WebtestIt is a lightweight IDE optimized for building UI web tests with Selenium, Unittest or Protractor. It supports developing tests in Java, Python and TypeScript and includes built-in best practices such as the creation of Page Objects, separating test code from the testing framework, creating modular and reusable tests, cross-browser testing, [and more](https://docs.sencha.com/webtestit.html).
+Sencha WebtestIt is a lightweight IDE optimized for building UI web tests with Selenium, Unittest or Protractor. It supports developing tests in Java, Python and TypeScript and includes built-in best practices such as the creation of Page Objects, separating test code from the testing framework, creating modular and reusable tests, cross-browser testing, [and more](https://www.sencha.com/products/webtestit/).
 
 ## Requirements
 
-* [Sencha WebTestIt](https://docs.sencha.com/webtestit.html)
+* [Sencha WebTestIt](https://www.sencha.com/products/webtestit/)
 * [Python >= 3.6](https://wiki.python.org/moin/BeginnersGuide/Download)
 	* [Getting started with Python and Sencha WebTestIt](https://docs.sencha.com/webtestit/getting-started/getting-started-with-python-and-ranorex-webtestit.html)
 
